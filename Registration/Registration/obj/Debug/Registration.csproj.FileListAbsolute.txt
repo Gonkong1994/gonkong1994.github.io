@@ -1,0 +1,15 @@
+D:\Registration\Registration\bin\Debug\Registration.exe.config
+D:\Registration\Registration\bin\Debug\Registration.exe
+D:\Registration\Registration\bin\Debug\Registration.pdb
+D:\Registration\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+D:\Registration\Registration\obj\Debug\Registration.csproj.SuggestedBindingRedirects.cache
+D:\Registration\Registration\obj\Debug\Registration.LoginForm.resources
+D:\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+D:\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+D:\Registration\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+D:\Registration\Registration\obj\Debug\Registration.exe
+D:\Registration\Registration\obj\Debug\Registration.pdb
+D:\Registration\Registration\bin\Debug\MySql.Data.dll
+D:\Registration\Registration\obj\Debug\Registration.csproj.CopyComplete
+D:\Registration\Registration\obj\Debug\Registration.RegisterForm.resources
+D:\Registration\Registration\obj\Debug\Registration.MainForm.resources
